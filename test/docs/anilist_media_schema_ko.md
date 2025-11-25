@@ -203,17 +203,6 @@ EDA 관점에서 어떤 필드를 사용할지 판단하기 위한 참고 문서
 
 ---
 
-## 10. 모더레이션 관련
-
-### **52) `autoCreateForumThread`**
-### **53) `isRecommendationBlocked`**
-### **54) `isReviewBlocked`**
-### **55) `modNotes`**
-
-(관리자용 필드로 일반 EDA에서는 거의 사용하지 않음)
-
----
-
 # ✔ EDA에서 특히 유용한 핵심 필드
 
 - `format`, `status`, `season`, `seasonYear`, `source`
