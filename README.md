@@ -225,8 +225,8 @@ Features: averageScore, episodes
     - **Normalization (정규화)**: 두 지표의 스케일(0~1)을 맞춰 공정한 비교가 가능하게 함.
 
 ![](images/he.png)
-<!-- ![](images/he2.png)
-![](images/he3.png) -->
+![](images/he2.png)
+![](images/he3.png)
 ![](images/he4.png)
 ![](images/he5.png)
 ![](images/he6.png)
